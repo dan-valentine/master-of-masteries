@@ -22,6 +22,32 @@
   font-size: large;
 }
 
+.btn{
+  background: orange;
+  border-bottom-color: orangered;
+  border-right-color: orangered;
+  margin: 0 5px;
+}
+.cool-btn{
+  background: lightblue;
+  border-bottom-color: blue;
+  border-right-color: blue;
+}
+.lame-btn{
+  background: gray;
+  border-bottom-color: darkgray;
+  border-right-color: darkgray;
+}
+.danger-btn{
+  background: red;
+  border-bottom-color: darkred;
+  border-right-color: darkred;
+}
+
+footer{
+  height: 50px;
+  width: 100vw
+}
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
