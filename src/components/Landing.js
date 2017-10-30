@@ -70,6 +70,7 @@ Odio stet discere cum in, mel id labitur perfecto posidonium, quod habeo tempor 
                 </section>
                 <dialog>This only works on firefox</dialog>
                 <div className='content_box'>contnent example</div>
+                <div className='background_image'></div>
                 <footer></footer>
             </div>
         );
